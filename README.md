@@ -8,4 +8,11 @@ Additionally, here is the ERD I developed for the same database. Like the ERM, t
 
 ![the ERM for the city library](https://github.com/themane04/database/blob/main/images/ERD_Stadtbibliothek_MarjanTomev.jpg)
 
-You can find the script used to populate all the tables in the script.py file within this repository. This script is a practical application of the structures defined by the ERM and ERD, showcasing the theoretical design in action.
+
+Following my initial foray into the world of ERM and ERD, I was presented with a more comprehensive exercise that not only involved designing another database but also implementing it using PgAdmin (PostgreSQL). This task challenged me to not only conceptualize the database structure but to bring it to life in a practical, functioning form.
+
+The screenshot below encompasses a detailed journey through database normalization, showcasing the progression through the 1st, 2nd, and 3rd Normal Forms (NF), and culminates with the Entity-Relationship Model (ERM) of the new project:
+
+![the ERM for the city library](https://github.com/themane04/database/blob/main/images/Weihnachtsmarkt_MarjanTomev.jpg)
+
+At the culmination of the database design and implementation process, I developed a Python script, 'script.py', included in this repository. This script epitomizes the intersection of database management and programming, illustrating how automation can drastically improve both efficiency and precision in populating database tables. Rather than manually entering data into each table, this script automates the process, showcasing a practical application of programming skills to streamline database operations.
