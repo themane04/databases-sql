@@ -1,1 +1,1 @@
-![alt text](/images/ERD_Stadtbibliothek_MarjanTomev.png)
+![alt text](/images/ERM_Stadtbibliothek_MarjanTomev.png)
